@@ -1,1 +1,1 @@
-# Program-menghitung-pangkat-menggunakan-rekursif
+# Program-menghitung-pangkat
